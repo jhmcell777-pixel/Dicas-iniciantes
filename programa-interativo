@@ -1,0 +1,43 @@
+def passo_1():
+    print("1️⃣  Primeiro passo: Entender como a Internet funciona\n")
+    input("O que aprender para entender como a internet funciona? (aperte ENTER para ver a resposta) ")
+    print("\nVocê deve aprender os protocolos básicos: HTTP, HTTPS e mais...\n")
+
+
+def passo_2():
+    print("2️⃣  Segundo passo: Entender como o usuário vê as coisas\n")
+    input("Aperte ENTER para continuar ")
+    print("\nAprender o mínimo de design e experiência do usuário já vai melhorar demais sua bagagem!\n")
+    print("No final das contas, programar é resolver o problema dos outros.\n")
+
+
+def passo_3():
+    print("3️⃣  Terceiro passo: Começar a entender o GitHub\n")
+    input("Aperte ENTER para saber mais sobre GitHub ")
+    print("\nGitHub é como o Instagram, mas para programadores.")
+    print("Nele você pode enviar códigos, compartilhar com a comunidade e até receber ajuda para melhorar seus projetos.\n")
+    print("Então se vai começar a programar, já crie sua conta lá!\n")
+
+
+def passo_4():
+    print("4️⃣  Quarto passo: Os dois pilares do Frontend — HTML e CSS\n")
+    input("Aperte ENTER para continuar ")
+    print("\nOBS: HTML e CSS são linguagens de marcação e estilização, não linguagens de programação.\n")
+
+
+def main():
+    print("=== BEM-VINDO AO SEU PRIMEIRO TUTORIAL INTERATIVO ===\n")
+    print("Hello, World!")
+    print("Aprendendo programação do início\n")
+
+    passo_1()
+    passo_2()
+    passo_3()
+    passo_4()
+
+    print("=== FIM DO TUTORIAL ===")
+    print("Parabéns! Você completou sua primeira experiência guiada no Python 🎉")
+
+
+# Executa o programa
+main()

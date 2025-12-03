@@ -1,7 +1,12 @@
 # === DICIONARIO DOS CODIGOS PYTHON ===
 
+#=== === ==><== === ===##=== === ==><== === ===#
+# DICA: Confira o tutorial oficial do Python em português:
+#link==> https://docs.python.org/pt-br/3/tutorial/index.html
+#=== === ==><== === ===##=== === ==><== === ===#
+
 # Para mostrar a mensagem fixada na tela
-print("Hello mundo")
+print("Hello, mundo")
 
 # Retorna o texto ao usuario, E espera digitar algo!
 # É comum armazenar a resposta em uma variável, como no exemplo abaixo:
@@ -18,8 +23,13 @@ peso = 76
 print("Seu nome é:", nome)
 print("Você tem", idade, "anos.")
 
-# === === ===  === ===
-
+#=== === ==><== === ===#
+# Que tal praticar? 
+# Veja essa lista de exercícios de Python: 
+# Link==> https://wiki.python.org.br/ListaDeExercicios
+# Ou resolva problemas online: 
+# Link==> https://www.beecrowd.com.br/judge/pt/problems/index/1
+#=== === ==> <== === ===#  
        # ===Tipos de Dados===
          
        # Serve para organizar diferentes tipos de informação.
@@ -92,6 +102,7 @@ elif idade >= 18:
     print("Você é maior de idade, mas verifique o peso.")
 else:
     print("Você é menor de idade.")
+
 
 # === DICIONARIO DOS CODIGOS PYTHON — PARTE 2 ===
 
